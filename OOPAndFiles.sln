@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPAndFiles", "OOPAndFiles\OOPAndFiles.csproj", "{BCECA04A-28D8-4CD8-8228-E244BDE4036F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frozen", "Frozen\Frozen.csproj", "{AF6634FB-B5A3-44CD-A5AD-EDB1A294BCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCECA04A-28D8-4CD8-8228-E244BDE4036F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCECA04A-28D8-4CD8-8228-E244BDE4036F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCECA04A-28D8-4CD8-8228-E244BDE4036F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCECA04A-28D8-4CD8-8228-E244BDE4036F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6634FB-B5A3-44CD-A5AD-EDB1A294BCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6634FB-B5A3-44CD-A5AD-EDB1A294BCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6634FB-B5A3-44CD-A5AD-EDB1A294BCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6634FB-B5A3-44CD-A5AD-EDB1A294BCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94429C53-05E7-46B3-AE51-AF97263F7A1B}
+	EndGlobalSection
+EndGlobal
